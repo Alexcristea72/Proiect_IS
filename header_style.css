@@ -1,0 +1,20 @@
+.header{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.login{
+    font-size: 30px;
+}
+.cart-image{
+    width: 60px;
+    height: 60px;
+}
+.logo{
+    width: 180px;
+    height: 105px;
+}
+body{
+    background-color: white;
+}
